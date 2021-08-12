@@ -19,7 +19,7 @@ x-shared_environment: &shared_environment
 
 services:
   app:
-    image: vapor-app:latest
+    image: gbshop-server:latest
     build:
       context: .
     environment:

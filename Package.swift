@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "VaporApp",
+    name: "gbshopServer",
     platforms: [
        .macOS(.v10_15)
     ],
